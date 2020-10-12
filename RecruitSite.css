@@ -1,0 +1,32 @@
+.carousel-indicators {
+    text-align: right;
+    float: right;
+    right: 2% !important;
+    left: inherit;
+} */
+.carousel-control-prev{
+    top: 90%;
+    left: 45%;
+    opacity: 100%;
+}
+.carousel-control-next{
+    top: 75%;
+    right: 40%;
+    opacity: 100%;
+}
+.tategaki{
+    direction: ltr;
+    display: inline-block;
+    text-align: left;
+    -ms-writing-mode: tb-rl;
+    writing-mode: vertical-rl;
+}
+.highlight{
+    background-color: #ec9700;
+}
+
+.maps .row p{
+    -ms-writing-mode: tb-rl;
+    writing-mode: vertical-rl;
+    padding: 30px;
+}
